@@ -1,11 +1,11 @@
 <p align="center"><img src="https://raw.githubusercontent.com/sofycodes/consoleMe/main/icon.png" style="display:block; margin:auto; width:300px"></p>
-<h1 align="center">GML Tweaks 0.0.0</h1>
+<h1 align="center">Genesis 1.0</h1>
 
-<p align="center">A simple package adding useful functions for GameMaker LTS 2022+</p>
-
-&nbsp;
+<p align="center">A simple package adding custom origns for GameMaker LTS 2022+</p>
 
 &nbsp;
 
-- ### [Download the .yymps](https://github.com/sofycodes/consoleMe/releases/)
-- ### Read the [documentation](https://github.com/sofycodes/consoleMe)
+&nbsp;
+
+- ### [Download the .yymps](https://github.com/sofycat/Genesis/releases/)
+- ### Read the [documentation](https://github.com/sofycat/Genesis)
